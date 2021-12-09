@@ -1,0 +1,80 @@
+CMP321: Prolog Parser Project Output
+Fall 2021
+Section 1  Group 3
+Khondoker Labib Rahman : b00084215
+Prem Rajendran : b00084833
+Harshit Jiandani : b00082536
+Sarthak Maloo : b00083635
+
+
+
+
+Parsing the File: 1.txt
+There are no Errors. Nice Program :)
+
+Parsing the File: 2.txt
+There are no Errors. Nice Program :)
+
+Parsing the File: 3.txt
+There are no Errors. Nice Program :)
+
+Parsing the File: 4.txt
+Number of Errors in this file = 1
+Error : Variable name used is invalid.This error is found in line 5 at index 35
+
+Parsing the File: 5.txt
+Number of Errors in this file = 3
+Error : Atom used in invalid.This error is found in line 3 at index 26
+Error : Clause ending missing a period.This error is found in line 3 at index 28
+Error : Program is not valid as clause list is not followed by a query.This error is found in line 3 at index 37
+
+Parsing the File: 6.txt
+Number of Errors in this file = 48
+Error : Term used is invalid.This error is found in line 1 at index 10
+Error : Term used is invalid.This error is found in line 1 at index 14
+Error : Term used is invalid.This error is found in line 2 at index 10
+Error : Predicate doesnt have a closing parenthesis .This error is found in line 2 at index 12
+Error : Clause is invalid.This error is found in line 2 at index 15
+Error : Program is not valid as clause list is not followed by a query.This error is found in line 2 at index 17
+Error : Term used is invalid.This error is found in line 3 at index 10
+Error : Predicate doesnt have a closing parenthesis .This error is found in line 3 at index 17
+Error : Clause is invalid.This error is found in line 3 at index 21
+Error : Program is not valid as clause list is not followed by a query.This error is found in line 3 at index 24
+Error : Term used is invalid.This error is found in line 3 at index 38
+Error : Predicate doesnt have a closing parenthesis .This error is found in line 3 at index 45
+Error : Clause is invalid.This error is found in line 3 at index 49
+Error : Program is not valid as clause list is not followed by a query.This error is found in line 3 at index 52
+Error : Clause is invalid.This error is found in line 5 at index 30
+Error : Clause is invalid.This error is found in line 6 at index 30
+Error : Term used is invalid.This error is found in line 7 at index 7
+Error : Term used is invalid.This error is found in line 7 at index 11
+Error : Term used is invalid.This error is found in line 7 at index 15
+Error : Term used is invalid.This error is found in line 7 at index 27
+Error : Predicate doesnt have a closing parenthesis .This error is found in line 7 at index 29
+Error : Clause is invalid.This error is found in line 7 at index 32
+Error : Program is not valid as clause list is not followed by a query.This error is found in line 7 at index 34
+Error : Term used is invalid.This error is found in line 8 at index 7
+Error : Predicate doesnt have a closing parenthesis .This error is found in line 8 at index 14
+Error : Clause is invalid.This error is found in line 8 at index 16
+Error : Program is not valid as clause list is not followed by a query.This error is found in line 8 at index 19
+Error : Term used is invalid.This error is found in line 9 at index 9
+Error : Term used is invalid.This error is found in line 9 at index 23
+Error : Term used is invalid.This error is found in line 10 at index 6
+Error : Predicate doesnt have a closing parenthesis .This error is found in line 10 at index 10
+Error : Clause is invalid.This error is found in line 10 at index 12
+Error : Program is not valid as clause list is not followed by a query.This error is found in line 10 at index 15
+Error : Term used is invalid.This error is found in line 10 at index 56
+Error : Predicate doesnt have a closing parenthesis .This error is found in line 10 at index 60
+Error : Clause is invalid.This error is found in line 10 at index 62
+Error : Program is not valid as clause list is not followed by a query.This error is found in line 10 at index 65
+Error : Term used is invalid.This error is found in line 11 at index 6
+Error : Predicate doesnt have a closing parenthesis .This error is found in line 11 at index 10
+Error : Clause is invalid.This error is found in line 11 at index 12
+Error : Program is not valid as clause list is not followed by a query.This error is found in line 11 at index 15
+Error : Term used is invalid.This error is found in line 11 at index 51
+Error : Predicate doesnt have a closing parenthesis .This error is found in line 11 at index 55
+Error : Clause is invalid.This error is found in line 11 at index 57
+Error : Program is not valid as clause list is not followed by a query.This error is found in line 11 at index 60
+Error : Term used is invalid.This error is found in line 12 at index 13
+Error : Predicate doesnt have a closing parenthesis .This error is found in line 12 at index 36
+Error : Query has a missing period.This error is found in line 12 at index 44
